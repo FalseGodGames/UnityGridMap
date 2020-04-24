@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/DynamicMesh.meta
 guid: 9875e4d7c8e82554581915cc096f2300
+=======
+guid: 8283e7b85b8575d4096ae5525bd0ab6e
+>>>>>>> Stashed changes:Assets/Textures.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

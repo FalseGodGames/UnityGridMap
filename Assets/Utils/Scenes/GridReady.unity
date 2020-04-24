@@ -308,11 +308,15 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
+<<<<<<< Updated upstream:Assets/Utils/Scenes/GridReady.unity
 <<<<<<< Updated upstream:Assets/Scenes/GridReady.unity
   orthographic size: 69.40985
 =======
   orthographic size: 34.80218
 >>>>>>> Stashed changes:Assets/Utils/Scenes/GridReady.unity
+=======
+  orthographic size: 34.80218
+>>>>>>> Stashed changes:Assets/Scenes/GridReady.unity
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -336,10 +340,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1012607577}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream:Assets/Utils/Scenes/GridReady.unity
 <<<<<<< Updated upstream:Assets/Scenes/GridReady.unity
   m_LocalPosition: {x: 106.6, y: 52.8, z: -10}
   m_LocalScale: {x: 0.5062425, y: 0.51315403, z: 1}
 =======
+=======
+>>>>>>> Stashed changes:Assets/Scenes/GridReady.unity
   m_LocalPosition: {x: 75.4, y: 32.1, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
 >>>>>>> Stashed changes:Assets/Utils/Scenes/GridReady.unity

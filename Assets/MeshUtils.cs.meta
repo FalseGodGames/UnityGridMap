@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/MeshUtils.cs.meta
 guid: 984c4cdb3d17696468650e34e19e16b8
+=======
+guid: 59268350a844f1e44a0e10205b8bb10c
+>>>>>>> Stashed changes:Assets/HeatMapVisual.cs.meta
+=======
+guid: 984c4cdb3d17696468650e34e19e16b8
+>>>>>>> Stashed changes
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

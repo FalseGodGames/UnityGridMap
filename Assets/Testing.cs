@@ -11,8 +11,14 @@ public class Testing : MonoBehaviour
     void Start()
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         grid = new Grid(20, 10, 10f, Vector3.zero);
         
+=======
+        grid = new Grid(150, 65, 1f, new Vector3(0,0));
+        heatMapVisual.SetGrid(grid);
+
+>>>>>>> Stashed changes
     }
 
 =======
