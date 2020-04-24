@@ -41,7 +41,7 @@ namespace CodeMonkey.MonoBehaviours {
             }
         }
 
-        private void Start() {
+        private void Awake() {
             myCamera = transform.GetComponent<Camera>();
         }
 
